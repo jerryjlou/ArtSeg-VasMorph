@@ -8,7 +8,7 @@ Jerry J. Lou*, Peter Chang, Kiana D. Nava, Chanon Chantaduly, Hsin-Pei Wang, Wil
 
 *Published in Free Neuropathology on June 2, 2025*
 
-**[Publication](https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/6387)** | **[Download Models](https://zenodo.org/records/14955269?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUyZDYxNDNiLThlM2YtNDk4Yi05ZWMwLTRmYWZlM2UzYzk0NCIsImRhdGEiOnt9LCJyYW5kb20iOiIwZWFmMTZiMTliOTFlYmFhY2Y1NDRhODVjZjZjZGZlNSJ9.zsZ-DW-_8-tBOc-6PK0XHYZOM7rOL6fG-evXOBE0IPMYVA8hdTGorCMkoWJR70xJMSI68F2fSv8COx5gt7K6ZA)** | **[Cite](#reference)** | **[Datasets](#datasets)** 
+**[Publication](https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/6387)** | **[Download Models](https://zenodo.org/records/14955269?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUyZDYxNDNiLThlM2YtNDk4Yi05ZWMwLTRmYWZlM2UzYzk0NCIsImRhdGEiOnt9LCJyYW5kb20iOiIwZWFmMTZiMTliOTFlYmFhY2Y1NDRhODVjZjZjZGZlNSJ9.zsZ-DW-_8-tBOc-6PK0XHYZOM7rOL6fG-evXOBE0IPMYVA8hdTGorCMkoWJR70xJMSI68F2fSv8COx5gt7K6ZA)** | **[Datasets](#datasets)** | **[Cite](#reference)** 
 
 **Abstract**:\
 <img src="Figures/Blood_vessel_chip.png" width="300px" align="right" />
