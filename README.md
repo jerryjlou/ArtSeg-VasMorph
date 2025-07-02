@@ -8,7 +8,7 @@ Jerry J. Lou*, Peter Chang, Kiana D. Nava, Chanon Chantaduly, Hsin-Pei Wang, Wil
 
 *Published in Free Neuropathology on June 2, 2025*
 
-**[Publication](https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/6387)** | **[Download Models](https://zenodo.org/records/14955269?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUyZDYxNDNiLThlM2YtNDk4Yi05ZWMwLTRmYWZlM2UzYzk0NCIsImRhdGEiOnt9LCJyYW5kb20iOiIwZWFmMTZiMTliOTFlYmFhY2Y1NDRhODVjZjZjZGZlNSJ9.zsZ-DW-_8-tBOc-6PK0XHYZOM7rOL6fG-evXOBE0IPMYVA8hdTGorCMkoWJR70xJMSI68F2fSv8COx5gt7K6ZA)** | **[Cite](#reference)** 
+**[Publication](https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/6387)** | **[Download Models](https://zenodo.org/records/14955269?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUyZDYxNDNiLThlM2YtNDk4Yi05ZWMwLTRmYWZlM2UzYzk0NCIsImRhdGEiOnt9LCJyYW5kb20iOiIwZWFmMTZiMTliOTFlYmFhY2Y1NDRhODVjZjZjZGZlNSJ9.zsZ-DW-_8-tBOc-6PK0XHYZOM7rOL6fG-evXOBE0IPMYVA8hdTGorCMkoWJR70xJMSI68F2fSv8COx5gt7K6ZA)** | **[Cite](#reference)** | **[Datasets](#datasets)** 
 
 **Abstract**:\
 <img src="Figures/Blood_vessel_chip.png" width="300px" align="right" />
@@ -215,13 +215,15 @@ df.to_csv('#save_path.csv', index=False)
 
 ## Datasets
 
-### ArtSeg-VasMorph WSIs
+### ArtSeg-VasMorph de-identified WSIs
 - **[ArtSeg-VasMorph WSIs Part 1](https://zenodo.org/records/15692208?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjA0NDgwM2MxLWIzOGUtNDE1Ny05MWFhLTdmOTc3OTMwOGYwNCIsImRhdGEiOnt9LCJyYW5kb20iOiJkNGNkOTI5NzhjYzJjY2UzMzk5NDcwNGM1YmFjYmU4OCJ9.xGTmZ3AIHJyvUtnR-4ao7I7cLT4ZIDW2prmoYSoHe-M0RbbLa50Bur56VNO5oWiOufLBZNJOO6rW6-wtVD84aA)**
 - **[ArtSeg-VasMorph WSIs Part 2](https://zenodo.org/records/15692396?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImI0ZThiNTRlLTExNjMtNDRjZi04ZmQ5LTJmODhmZjFhMWM5NCIsImRhdGEiOnt9LCJyYW5kb20iOiIwZTZhN2VjNDUzZTRkYTI0Y2IxODUwYTYxNzMyMWRlMyJ9.qV3zkppaMy3UOvrbrb1XINUibYnT1mRbOzt4WAYr-OWUrrks32WWcNQZovPgCPvlUNttBEJH6wkj5jtd9_1pxg)**
 - **[ArtSeg-VasMorph WSIs Part 3](https://zenodo.org/records/15694655?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjQwMWMzNmY3LTRmZWMtNGYwMS05YjI3LTA5MzQxZjJlZWQzNCIsImRhdGEiOnt9LCJyYW5kb20iOiJjMjE5MWE5OGYxYTMyZDkzYWMxODE1MzJjNDk3NzQ4MCJ9.c3nWT3cSmduarGNah0jAYflDJMr5PMUlAgfL6jKmQFLXc9Q28ck3Bst0dTSvVJ_Q9j3UA-D-kjTkmgSVjFEVww)**
 - **[ArtSeg-VasMorph WSIs Part 4](https://zenodo.org/records/15694693?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjU0NGJlNjk3LTU0NDMtNDU4ZC1hZDEyLWNjOTNmY2NiMTg3ZCIsImRhdGEiOnt9LCJyYW5kb20iOiI4NjA1NjU1YmE4MWZhNGU1ZDdlNTE4YjEyODU3NDc2MCJ9.BjBMkUIJT-W7124waieEHEznbuLCX5SZ7sgETDWz0AOwq02ikAXiU2VdWhFa_PD8IzvuY8fNaVn5dww-oMNZ3w)**
 - **[ArtSeg-VasMorph WSIs Part 5](https://zenodo.org/records/15748082?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjcyNGZiZjRhLTcyY2YtNDhhNi05NWQwLWU2OTlkODU4ODIzZCIsImRhdGEiOnt9LCJyYW5kb20iOiIzNTJmOTUyYWU5ZGYxMmI2YTU4NjBkNGVmZTQ2OTVkMSJ9.5JFAG97YmT0dasZwR9iMDoAdZdsyNpHyaB9PcYwALHjgyhkfW2K1qdxI7hwB_A8gbvD5i3Xw7y5Ah9xU-rVzpg)**
 
+### VasMorph 
+- **[VasMorph Test Dataset](https://zenodo.org/records/14885417?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImU3OGY0MGYxLTY2NzUtNGNjYS05NzNhLTY2NDllMjcyODJlMyIsImRhdGEiOnt9LCJyYW5kb20iOiI3ODQ2NWM1ODM5YzIyMDNjZGFkMjVlMmFiOGU1ODkyNyJ9.qj1_vt2Cfe9ly7Jj5yz5y4ynWUVnu_shwRex-LuRKyJzQYbAckhi5baZ-fat_4JzAshjYmbheqD9mON0eRnXkg)**
 
 ## License and Terms of Use
 The models and associated code are released under the CC BY-NC-ND 4.0 license and may only be used for non-commercial, academic research purposes with proper attribution. Any commercial use, sale, or other monetization of the ArtSegmodels and their derivatives, which include models trained on outputs from the ArtSegmodels or datasets created from the ArtSegmodels, is prohibited and requires prior approval. Any commercial use, sale, or other monetization of VasMorph is prohibited and requires prior approval. By downloading the models, you agree not to distribute, publish or reproduce a copy of the models. If another user within your organization wishes to use the ArtSegmodels, they must register as an individual user and agree to comply with the terms of use. Users may not attempt to re-identify the deidentified data used to develop the underlying models. If you are a commercial entity, please contact the corresponding authors.
