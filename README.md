@@ -16,11 +16,11 @@ Objective quantification of brain arteriolosclerosis remains an area of ongoing 
 
 ## What is ArtSeg and VasMorph?
 
-Together, ArtSeg and VasMorph compose a prototype end-to-end ML-based pipeline that can assist neuropathologists in the morphometric analysis of arteriolosclerotic vessels on whole slide images. The ML component Arteriolosclerosis Segmentation (ArtSeg) receives WSIs as input and outputs segmentations of arteriolosclerotic blood vessel walls and lumens, which are in turn input into the non-ML component Vascular Morphometry (VasMorph) that outputs quantitative metrics for the sclerotic index, vessel wall thickness, and vessel wall to lumen area ratio.
+Together, ArtSeg and VasMorph comprise a prototype end-to-end ML-based pipeline that can assist persons in the morphometric analysis of arteriolosclerotic vessels in on whole slide images of human brain tissue. The ML component Arteriolosclerosis Segmentation (ArtSeg) receives WSIs as input and outputs segmentations of arteriolosclerotic blood vessel walls and lumens, which are in turn input into the non-ML component Vascular Morphometry (VasMorph) that outputs quantitative metrics for the sclerotic index, vessel wall thickness, and vessel wall to lumen area ratio.
 
 **Why use ArtSeg and VasMorph?**  
 
-> Objective quantification of brain arteriolosclerosis remains an area of ongoing refinement in neuropathology, with current methods primarily utilizing semi-quantitative scales completed through manual histological examination. These approaches offer modest inter-rater reliability and do not provide precise quantitative metrics. ArtSegand VasMorph show promise as an assistive tool to enhance current neuropathological evaluation of brain arteriolosclerosis, offering potential for improved inter-rater reliability and quantification.
+> Objective quantification of brain arteriolosclerosis remains an area of ongoing refinement in neuropathology, with current methods primarily utilizing semi-quantitative scales completed through manual histological examination. These approaches offer modest inter-rater reliability and do not provide precise quantitative metrics. ArtSeg and VasMorph show promise as an assistive tool to enhance current neuropathological evaluation of brain arteriolosclerosis, offering potential for improved inter-rater reliability and quantification.
 
 ## Algorithm Architecture and Walkthrough
 
