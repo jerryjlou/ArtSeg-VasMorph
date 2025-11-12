@@ -80,6 +80,11 @@ Links under construction.
 #### Step 2: Patch Extraction with ORCA
 Use `ORCA.py` to obtain patches centered on detected blood vessels.
 
+First, install jarvis-md, a custom module from Applied Artificial Intelligence Research (A2IR) lab at UCI.
+```python
+pip install jarvis-md
+```
+
 Input WSIs into ORCA through fnames, the list of paths to your WSIs that ORCA will process.
 
 ```python
