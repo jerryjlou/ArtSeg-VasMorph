@@ -230,6 +230,7 @@ df.to_csv('#save_path.csv', index=False)
 
 ### ROIs / patches and annotations
 - **[Patches with arteriolosclerotic blood vessels](https://zenodo.org/records/13879760?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjQ5YWQ1MzNhLTYwMzAtNDhhOS05YmQ4LTA3MzEzNTNlOWZhYyIsImRhdGEiOnt9LCJyYW5kb20iOiJkMGYzNmM3YzE5YTI0ZmYxOTRjMmI5YTRlMmZmMzU0MyJ9.DLgRWW-PSJivNMqAXDO2MWMZGHgyOyG0W2Fd0UjP1aqaTMm1YnpcxPh3MLVLvv2gXK1OyuT3M8L8_bNFqFrKqQ)**
+- **[Annotation masks for patches with arteriolosclerotic blood vessels](https://zenodo.org/records/13879737?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjVkYWVlZmNmLWQ0NzQtNDUyOC1iZWVhLTQyOTZlMWRiNzY1OSIsImRhdGEiOnt9LCJyYW5kb20iOiI3NDQwNWExNjI2ZWY3NzVkMmZhMWIyYzU3N2I3OThlMiJ9.HT0B9vg6SnSyuuipdoEdMrAf-Go4DFfchYIhdZbFQtjP-6Fsxlwub2xcHR58p7RM6139mgM86GFTdC1V2sabgQ)**
 - **[Patches without arteriolosclerosis Part One](https://zenodo.org/records/13883526?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImJkYjliYWFjLTkzZDQtNDRhOS1iM2E5LTA0ZDY1NDkxNTc1NCIsImRhdGEiOnt9LCJyYW5kb20iOiI5NTkyNDk1OGEyYTRmNmQwMzc4MTMyODU1ZWU2MmRhYiJ9.nLmu_dPD88PgoyeN_ORvlVvQBMy4uBqdyt4pmoSiDQAluztreotWaXi4OmyuTI5JW3nwoXCkqZUqSa_phswuMg)**
 - **[Patches without arteriolosclerosis Part Two](https://zenodo.org/records/13883554?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM5MjI1YThkLTBjMmItNDc3NS05ZDAzLWQ4OTQ3YjVmMzdlZiIsImRhdGEiOnt9LCJyYW5kb20iOiJhZDAxZTU5OTRiMzI1OWM2YjAwZGM4ZGJiZGQ3YjJkNyJ9.7MZLIzwhZjoJ3LVtjy1owvvRzOqcCRAQJaxZCJ_utJwuogWJnL5guMFlr3UmLvCsx-B8kwMkhiygv2FQ0q-Jug)**
 
